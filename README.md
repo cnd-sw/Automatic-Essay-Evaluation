@@ -1,2 +1,15 @@
 # Automatic-Essay-Evaluation
-Using machine learning and natural language processing methods, this paper intends to create an automated essay grading system. Essays submitted by students for the IELTS and TOEFL tests are evaluated using Long Short-Term Memory (LSTM) and Support Vector Machine (SVM) models. The essays are graded on a scale from 1 to 5 based on the system's analysis of many factors, such as cohesion, syntax, vocabulary, phraseology grammar and conventions. The model learns the associations between language characteristics and evaluation scores by studying a dataset of essays that have already been graded. To evaluate the system's performance, it is first applied to a new pool of essays. Since the suggested approach does not rely on human subjectivity or prejudice, it has the potential to enhance the efficiency and uniformity of essay grading. As a whole, this work illustrates how machine learning and NLP may be used to create useful tools in the field of language evaluation and instruction.
+
+This project explores automatic essay grading using machine learning and NLP. LSTM and SVM models analyze factors like cohesion, syntax, and vocabulary to score essays (1-5) on IELTS/TOEFL scales. Trained on pre-graded essays, the system removes human bias and promises consistent, efficient grading. Dive in to see how language tech can revolutionize education!
+
+**Highlights:**
+
+* **Machine learning magic:** LSTM and SVM models handle the grading.
+* **Objective and consistent:** Eliminates human bias and subjectivity.
+* **Evolved analysis:** Considers key factors like cohesion and vocabulary.
+* **Ready to test:** Trained on pre-graded essays and ready for evaluation.
+
+**Join the project:** Explore the code, contribute, and be part of the future of automated essay grading!
+
+**Keywords:** NLP, Machine Learning, Education, Essay Grading, Bias-Free Assessment
+
