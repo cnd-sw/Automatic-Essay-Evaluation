@@ -9,7 +9,4 @@ This project explores automatic essay grading using machine learning and NLP. LS
 * **Evolved analysis:** Considers key factors like cohesion and vocabulary.
 * **Ready to test:** Trained on pre-graded essays and ready for evaluation.
 
-**Join the project:** Explore the code, contribute, and be part of the future of automated essay grading!
-
-**Keywords:** NLP, Machine Learning, Education, Essay Grading, Bias-Free Assessment
-
+**Imp: **This work has alreadt been presented in a conference and is yet to be published.
